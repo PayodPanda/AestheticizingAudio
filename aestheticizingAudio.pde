@@ -3,6 +3,10 @@ import processing.sound.*;
 
 SoundFile song;
 Amplitude rms;
+
+// I have NOT included the songs in this repository. 
+// You'll have to provide your own music files. 
+// The song list below should be the filenames of the audio files, in wav format.
 String[] songs = {
                   "Darkher - Ghost Tears",
                   "Nest - Amroth Brambles",
